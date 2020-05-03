@@ -22,7 +22,7 @@ title: Wei Li
 email: leeway1992@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   blog for leaning process
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "/weili101" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wei
 github_username:  weili101 # Build settings
